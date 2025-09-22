@@ -1,4 +1,6 @@
-# 🌐 Sistema P2P de Compartición de Archivos# 🌐 Sistema P2P de Compartición de Archivos
+# 🌐 Sistema P2P de Compartición de Archivos# 🌐 Sistema P2P de Compartición de Archivos 
+
+#Realizador Por Santiago Maya Horta y Matias Arango Ruiz
 
 
 
