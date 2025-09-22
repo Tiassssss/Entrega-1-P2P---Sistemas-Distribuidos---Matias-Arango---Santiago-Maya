@@ -1,4 +1,4 @@
-# 🌐 Sistema P2P de Compartición de Archivos# 🌐 Sistema P2P de Compartición de Archivos Realizado Por Santiago Maya Horta y Matias Arango Ruiz
+# 🌐 Sistema P2P de Compartición de Archivos# 🌐 Sistema P2P de Compartición de Archivos Realizado Por Santiago Maya Horta(ID:000190981) y Matias Arango Ruiz(ID:000547025)
 
 
 Un sistema **Peer-to-Peer (P2P)** distribuido que permite la compartición descentralizada de archivos entre múltiples nodos de red. El proyecto implementa una arquitectura híbrida que combina un servidor maestro para el descubrimiento de peers con transferencias directas entre nodos.Un sistema **Peer-to-Peer (P2P)** distribuido para compartición de archivos implementado en Python, utilizando **REST API** y **gRPC** para comunicación entre peers.
