@@ -5,7 +5,7 @@ Un sistema **Peer-to-Peer (P2P)** distribuido que permite la compartición desce
 
 
 
-## 🎯 ¿Qué hace este proyecto?## 🚀 Inicio Rápido
+## 🎯 ¿Qué hace este proyecto?
 
 
 
