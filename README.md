@@ -170,8 +170,8 @@ P2P-Proyecto/
 ## 📖 Documentación
 
 - **📋 [README_GUIA_EJECUCION.md](P2P-Proyecto/README_GUIA_EJECUCION.md)**: Guía completa de instalación, configuración y uso
-- **🔍 [verificar_sistema.sh](verificar_sistema.sh)**: Script para verificar el estado del sistema
-- **🚀 [prueba_completa.sh](prueba_completa.sh)**: Ejecución automática de todo el sistema
+- **🔍 [verificar_sistema.sh](P2P-Proyecto/verificar_sistema.sh)**: Script para verificar el estado del sistema
+- **🚀 [prueba_completa.sh](P2P-Proyecto/prueba_completa.sh)**: Ejecución automática de todo el sistema
 
 ---
 
