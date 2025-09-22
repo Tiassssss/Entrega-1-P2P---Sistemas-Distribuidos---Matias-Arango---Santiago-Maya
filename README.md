@@ -173,6 +173,5 @@ P2P-Proyecto/
 - **🔍 [verificar_sistema.sh](P2P-Proyecto/verificar_sistema.sh)**: Script para verificar el estado del sistema.
 - **🚀 [prueba_completa.sh](P2P-Proyecto/prueba_completa.sh)**: Ejecución automática de todo el sistema.
 
----
 
-💡 **Para ejecutar el proyecto**: Consulta la [Guía de Ejecución](README_GUIA_EJECUCION.md)
+
